@@ -1,4 +1,4 @@
-# Project 1: Automated Inventory Auditor 🚀
+# Project 1: Automated Inventory Auditor 
 
 ### The Business Problem
 Small businesses often lose revenue because they cannot track expiring stock manually. This script solves that "Ground Reality" crisis.
