@@ -13,7 +13,7 @@ This Python script uses **Pandas** to:
 *Automating the robotic tasks to restore human juice to local businesses.*
 
 ---
-
+# Project 2 : Gold Transparency Auditor
 ## 🌟 New Feature: Gold Price Auditor (`gold_auditor.py`)
 I added this tool to help people verify jewelry prices.
 
