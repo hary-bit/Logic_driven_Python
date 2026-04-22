@@ -11,3 +11,16 @@ This Python script uses **Pandas** to:
 
 ### Script and Solution Philosophy
 *Automating the robotic tasks to restore human juice to local businesses.*
+
+---
+
+## 🌟 New Feature: Gold Price Auditor (`gold_auditor.py`)
+I added this tool to help people verify jewelry prices.
+
+**What it does:**
+* Calculates the "Fair Market Price" based on current 22K rates.
+* Factors in the 3% GST and HUID charges.
+* **The Logic:** It reveals the hidden "Making Charges" and tells you if you are getting a fair deal or being overcharged.
+
+**How to use it:**
+Run `python gold_auditor.py` and enter the weight and price from your jewelry quote.
